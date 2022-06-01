@@ -1,0 +1,196 @@
+#bleuUn {
+
+    display: flex;
+    height: 100px;
+    width: 97%;
+    color: blue;
+    background-color: blue;
+    border: solid;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#violetHautDroit {
+
+    display: block;
+    height: 80px;
+    width: 80px;
+    color: purple;
+    top: 0;
+    right: 0;
+    border: solid;
+    background-color: purple;
+    position: absolute;
+
+}
+
+#violetHautGauche {
+
+    display: block;
+    height: 80px;
+    width: 80px;
+    color: purple;
+    top: 0;
+    left: 0;
+    border: solid;
+    background-color: purple;
+    position: absolute;
+
+}
+
+#vertUn {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+    margin-left: 1.5%
+}
+
+#vertDeux {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+
+}
+
+#vertTrois {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+
+}
+
+#vertQuatre {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+
+}
+
+#vertCinq {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+
+}
+
+#vertSix {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: green;
+    margin-top: 30px;
+    border: solid;
+    background-color: green;
+    margin-right: 15px;
+
+}
+
+.suiteVerts {
+
+    display: flex;
+
+}
+
+#bleuDeux {
+
+
+    height: 100px;
+    width: 97%;
+    color: blue;
+    background-color: blue;
+    border: solid;
+    margin-top: 30px;
+    margin-left: 1.5%;
+    position: relative
+}
+
+#rouge {
+
+
+    height: 100px;
+    width: 450px;
+    color: red;
+    background-color: red;
+    border: solid;
+    margin-top: -106px;
+    margin-left: 480px;
+    position: absolute
+}
+
+
+
+#violetMilieu {
+
+    display: flex;
+    height: 80px;
+    width: 80px;
+    color: purple;
+    border: solid;
+    background-color: purple;
+    position: absolute;
+    top: 325px;
+    right: 360px;
+
+
+
+}
+
+
+#violetBasDroit {
+
+    display: block;
+    height: 80px;
+    width: 80px;
+    color: purple;
+    bottom: 0;
+    right: 0;
+    border: solid;
+    background-color: purple;
+    position: absolute;
+
+}
+
+#violetBasGauche {
+
+    display: block;
+    height: 80px;
+    width: 80px;
+    color: purple;
+    bottom: 0;
+    left: 0;
+    border: solid;
+    background-color: purple;
+    position: absolute
+}
